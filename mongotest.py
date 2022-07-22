@@ -3,6 +3,25 @@ client = pymongo.MongoClient("mongodb+srv://Anamika:Pass1234@cluster0.33ckn1h.mo
 db = client.test
 print(db)
 
+
+d={
+    "name" : "Anamika",
+    "email":"aniverma2006@gmail.com",
+    "surname":"sinha"
+}
+
+d={
+    "name" : "Anamika",
+    "email":"aniverma2006@gmail.com",
+    "surname":"sinha"
+}
+
+d={
+    "name" : "Anamika",
+    "email":"aniverma2006@gmail.com",
+    "surname":"sinha"
+}
+
 d={
     "name" : "Anamika",
     "email":"aniverma2006@gmail.com",
