@@ -86,3 +86,4 @@ d = collection.find({ 'item': 'sketch pad' , 'qty' :{"$gte" : 75}})
 for i in d :
     print(i)
 
+print("Ani")
